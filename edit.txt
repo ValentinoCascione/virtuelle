@@ -1,0 +1,3 @@
+prenez les fichiers script.sh et script2.sh et mettez les dans un meme dossier
+lancer le fichier script.sh avec "sh script.sh"
+Une fois le nouveau dossier créé, deplacer manuellement le fichier script2.sh dans celui-ci et lancez "sh script2.sh" dans "cd /var/www/html"
